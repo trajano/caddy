@@ -29,7 +29,7 @@ require (
 	github.com/tailscale/tscert v0.0.0-20240608151842-d3f834017e53
 	github.com/yuin/goldmark v1.7.1
 	github.com/yuin/goldmark-highlighting/v2 v2.0.0-20230729083705-37449abec8cc
-	go.opentelemetry.io/contrib/instrumentation/net/http/otelhttp v0.49.0
+	go.opentelemetry.io/contrib/instrumentation/net/http/otelhttp v0.53.0
 	go.opentelemetry.io/contrib/propagators/autoprop v0.42.0
 	go.opentelemetry.io/otel v1.28.0
 	go.opentelemetry.io/otel/exporters/otlp/otlptrace/otlptracegrpc v1.28.0
@@ -71,6 +71,7 @@ require (
 	github.com/zeebo/blake3 v0.2.3 // indirect
 	go.opentelemetry.io/contrib/bridges/prometheus v0.53.0 // indirect
 	go.opentelemetry.io/contrib/exporters/autoexport v0.53.0 // indirect
+	go.opentelemetry.io/contrib/instrumentation/net/http/httptrace/otelhttptrace v0.53.0 // indirect
 	go.opentelemetry.io/contrib/propagators/aws v1.17.0 // indirect
 	go.opentelemetry.io/contrib/propagators/b3 v1.17.0 // indirect
 	go.opentelemetry.io/contrib/propagators/jaeger v1.17.0 // indirect
