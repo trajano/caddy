@@ -19,7 +19,7 @@ require (
 	github.com/klauspost/cpuid/v2 v2.2.7
 	github.com/mholt/acmez/v2 v2.0.1
 	github.com/prometheus/client_golang v1.19.1
-	github.com/quic-go/quic-go v0.44.0
+	github.com/quic-go/quic-go v0.46.0
 	github.com/smallstep/certificates v0.26.1
 	github.com/smallstep/nosql v0.6.1
 	github.com/smallstep/truststore v0.13.0
@@ -138,7 +138,7 @@ require (
 	github.com/mitchellh/copystructure v1.2.0 // indirect
 	github.com/mitchellh/go-ps v1.0.0 // indirect
 	github.com/mitchellh/reflectwalk v1.0.2 // indirect
-	github.com/pires/go-proxyproto v0.7.0
+	github.com/pires/go-proxyproto v0.7.1-0.20240628150027-b718e7ce4964
 	github.com/pkg/errors v0.9.1 // indirect
 	github.com/prometheus/client_model v0.6.1 // indirect
 	github.com/prometheus/common v0.55.0 // indirect
